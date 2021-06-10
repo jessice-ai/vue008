@@ -1,7 +1,7 @@
 .DS_Store
 node_modules
 /dist
-/sun
+
 
 # local env files
 .env.local
