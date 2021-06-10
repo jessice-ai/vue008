@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <div>黄渤</div>
+    <div>黄渤,黄磊,罗志祥 - 极限挑战</div>
   </div>
 </template>
 
